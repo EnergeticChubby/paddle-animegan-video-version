@@ -1,11 +1,26 @@
 # paddle-animegan-video-version
-A PaddleHub implementation of AnimeGAN for fast video animation ! 
+
 
 ## Requirements
-  python3.7
-  paddlepaddle-gpu
-  paddlehub
+- python3.7 
+- paddlepaddle-gpu
+- paddlehub
 
 ## Features
 
-Transform video to 
+使用PaddleHub将视频动漫化
+
+## Usage
+
+1、安装PaddlePaddle和PaddleHub
+
+```sh
+pip install --upgrade paddlepaddle -i https://mirror.baidu.com/pypi/simple
+pip install --upgrade paddlehub -i https://mirror.baidu.com/pypi/simple
+```
+
+2、其余步骤请查看[main.ipynb](https://github.com/zengzhuoqi/paddle-animegan-video-version/blob/main/main.ipynb)
+
+## License
+
+[MIT](LICENSE) © zengzhuoqi
