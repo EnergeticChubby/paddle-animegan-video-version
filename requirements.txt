@@ -1,0 +1,3 @@
+paddlepaddle-gpu==2.0.1
+paddlehub==2.0.4.post101
+opencv-python==4.1.1.26
